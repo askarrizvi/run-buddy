@@ -96,6 +96,15 @@ section {
 }
 /* Hero Style End */
 
+.hero-cta h2{
+    color: #fce138;
+    font-style: italic;
+}
+
+.hero-cta p{
+    color: white;
+}
+
 .hero-form{
     background: #fce138;
     color: #024e76;
